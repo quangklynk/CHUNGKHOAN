@@ -60,6 +60,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>CHUNGKHOANDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="frmCoPhieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCoPhieu.Designer.cs">
+      <DependentUpon>frmCoPhieu.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCoPhieu.resx">
+      <DependentUpon>frmCoPhieu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
