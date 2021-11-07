@@ -109,6 +109,7 @@
             this.txtMATKHAU.Name = "txtMATKHAU";
             this.txtMATKHAU.Size = new System.Drawing.Size(205, 26);
             this.txtMATKHAU.TabIndex = 2;
+            this.txtMATKHAU.Text = "123";
             // 
             // txtTAIKHOAN
             // 
@@ -116,6 +117,7 @@
             this.txtTAIKHOAN.Name = "txtTAIKHOAN";
             this.txtTAIKHOAN.Size = new System.Drawing.Size(205, 26);
             this.txtTAIKHOAN.TabIndex = 1;
+            this.txtTAIKHOAN.Text = "TMQ";
             // 
             // cmbCHINHANH
             // 

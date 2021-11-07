@@ -92,3 +92,4 @@ C:\Users\DELL\source\repos\CHUNGKHOAN\CHUNGKHOAN\bin\Debug\es\DevExpress.Office.
 C:\Users\DELL\source\repos\CHUNGKHOAN\CHUNGKHOAN\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
 C:\Users\DELL\source\repos\CHUNGKHOAN\CHUNGKHOAN\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
 C:\Users\DELL\source\repos\CHUNGKHOAN\CHUNGKHOAN\obj\Debug\CHUNGKHOAN.frmNhanVien.resources
+C:\Users\DELL\source\repos\CHUNGKHOAN\CHUNGKHOAN\obj\Debug\CHUNGKHOAN.frmTaiKhoan.resources

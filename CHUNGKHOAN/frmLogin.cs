@@ -97,6 +97,7 @@ namespace CHUNGKHOAN
 
             Program.mHoten = Program.myReader.GetString(1);
             Program.mGroup = Program.myReader.GetString(2);
+            Program.mChinhanh = Program.myReader.GetInt32(3);
             Program.myReader.Close();
             Program.frmChinh.MANV.Text = "Mã NV = " + Program.username;
             Program.frmChinh.HOTEN.Text = "Họ tên = " + Program.mHoten;
