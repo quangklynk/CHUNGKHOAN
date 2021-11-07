@@ -85,15 +85,5 @@ namespace CHUNGKHOAN
         {
             ShowForm<frmTaiKhoan>();
         }
-
-        private void barButtonItem6_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            ShowForm<frmCoPhieu>();
-        }
-
-        private void barButtonItem4_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            ShowForm<frmNDT>();
-        }
     }
 }
