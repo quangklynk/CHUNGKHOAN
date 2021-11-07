@@ -191,3 +191,5 @@ E:\Visual_Studio_Enterprise2015\CHUNGKHOAN\CHUNGKHOAN\obj\Debug\CHUNGKHOAN.pdb
 E:\Visual_Studio_Enterprise2015\CHUNGKHOAN\CHUNGKHOAN\obj\Debug\CHUNGKHOAN.csprojAssemblyReference.cache
 E:\Visual_Studio_Enterprise2015\CHUNGKHOAN\CHUNGKHOAN\obj\Debug\CHUNGKHOAN.frmCoPhieu.resources
 >>>>>>> 60398ea59e5996bc3ced444afb889d1455aec758
+C:\Users\DELL\source\repos\CHUNGKHOAN\CHUNGKHOAN\obj\Debug\CHUNGKHOAN.frmCoPhieu.resources
+C:\Users\DELL\source\repos\CHUNGKHOAN\CHUNGKHOAN\obj\Debug\CHUNGKHOAN.frmNDT.resources

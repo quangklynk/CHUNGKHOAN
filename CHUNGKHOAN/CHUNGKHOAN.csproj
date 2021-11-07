@@ -55,6 +55,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CHUNGKHOANDataSet.cs">
+      <DependentUpon>CHUNGKHOANDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="CHUNGKHOANDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
