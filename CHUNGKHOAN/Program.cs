@@ -18,7 +18,7 @@ namespace CHUNGKHOAN
 
         public static SqlConnection conn = new SqlConnection();
         public static String connstr;
-        public static String connstr_publisher = "Data Source=DESKTOP-2289HQC\\QUANGPC;Initial Catalog=CHUNGKHOAN;Integrated Security=True";
+        public static String connstr_publisher = "Data Source=MSI\\TYPC;Initial Catalog=CHUNGKHOAN;Integrated Security=True";
 
         public static SqlDataReader myReader;
         public static String servername = "";
